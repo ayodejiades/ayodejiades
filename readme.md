@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **ayodejiadesegun20@gmail.com**
 
-- ⚡ **I enjoy reading and watching television series**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
