@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayodeji Adesegun</h1>
-<h3 align="center">A Web & AI developer</h3>
+<h3 align="center">Tech Enthusiast</h3>
 
 
 - 👯 I'm looking for opportunities to work on **open source projects**.
