@@ -1,14 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ayodeji Adesegun</h1>
-<h3 align="center">Tech Enthusiast</h3>
+# Hello, I'm Ayodeji
 
+```py
+class Ayodeji:
+    def __init__(self):
+        self.name = "Ayodeji Adesegun"
+        self.school = "Loading...."
+        self.code = {
+            "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS", "Sass", "Redux"],
+            "backend": ["Python", "Node.js", "Java", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
+            "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux"],
+            "hard skills":["Quantitative Analysis", "Machine Learning Algorithms", "Data-Driven Personalization", "Predictive Modelling","Decision Analytics"]
+        }
+        self.description = "Tech Enthusiast"
 
-- 👯 I'm looking for opportunities to work on **open source projects**.
+    def get_contacts(self):
+        return {
+            "email": "ayodejiadesegun20@gmail.com",
+            "linkedin": "linkedin.com/in/ayodeji-adesegun",
+            "website": "ayodejiades.co",
+            "github": "github.com/ayodeji19",
+        }
 
-- 📫 How to reach me **ayodejiadesegun20@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayodejiades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayodejiadesegun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayodeji-adesegun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayodeji-adesegun" height="30" width="40"/></a>
-</p>
+if __name__ == "__main__":
+    me = Ayodeji()
+```
