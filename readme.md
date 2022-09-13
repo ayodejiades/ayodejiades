@@ -9,7 +9,7 @@ class Ayodeji:
             "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS", "Sass", "Redux"],
             "backend": ["Python", "Node.js", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux", "IBM Quantum Composer", "LaTeX"],
-            "hard skills":["Quantitative Analysis", "Machine Learning Algorithms", "Data-Driven Personalization", "Predictive Modelling","Decision Analytics"]
+            "hard_skills":["Quantitative Analysis", "Machine Learning Algorithms", "Data-Driven Personalization", "Predictive Modelling","Decision Analytics"]
         }
         self.description = "Tech Enthusiast"
 
