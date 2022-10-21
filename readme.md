@@ -18,7 +18,7 @@ class Ayodeji:
             "email": "ayodejiadesegun20@gmail.com",
             "linkedin": "linkedin.com/in/ayodeji-adesegun",
             "website": "ayodejiades.co",
-            "github": "github.com/ayodeji19",
+            "github": "github.com/ayodejiades",
         }
 
 if __name__ == "__main__":
