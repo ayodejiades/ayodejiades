@@ -6,7 +6,7 @@ class Ayodeji:
         self.name = "Ayodeji Adesegun"
         self.school = "Loading...."
         self.code = {
-            "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS", "Sass", "Redux"],
+            "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "HTML", "CSS",],
             "backend": ["Python", "Java", "Node.js", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux", "IBM Quantum Composer", "LaTeX", "Octave"],
             "hard_skills":["Quantitative Analysis", "Machine Learning Algorithms", "Data-Driven Personalization", "Predictive Modelling","Decision Analytics"]
@@ -17,7 +17,7 @@ class Ayodeji:
         return {
             "email": "ayodejiadesegun20@gmail.com",
             "linkedin": "linkedin.com/in/ayodeji-adesegun",
-            "website": "ayodejiades.co",
+            "website": "ayodejiades.github.io",
             "github": "github.com/ayodejiades",
         }
 
