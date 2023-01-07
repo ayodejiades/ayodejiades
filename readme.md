@@ -17,7 +17,7 @@ class Ayodeji:
         return {
             "email": "ayodejiadesegun20@gmail.com",
             "linkedin": "linkedin.com/in/ayodeji-adesegun",
-            "website": "ayodejiades.github.io",
+            "website": "ayodejiades.vercel.app",
             "github": "github.com/ayodejiades",
         }
 
