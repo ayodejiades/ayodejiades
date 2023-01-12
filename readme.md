@@ -24,4 +24,4 @@ class Ayodeji:
 if __name__ == "__main__":
     me = Ayodeji()
 ```
-[![Ayodeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayodejiades)](https://github.com/ayodejiades/github-readme-stats)
+[![Ayodeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayodejiades&show_icons=true&theme=transparent)](https://github.com/ayodejiades/github-readme-stats)
