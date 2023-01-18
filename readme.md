@@ -10,6 +10,7 @@ class Ayodeji:
             "backend": ["Python", "Java", "Node.js", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux", "IBM Quantum Composer", "LaTeX", "Octave"],
             "hard_skills":["Quantitative Analysis", "Machine Learning Algorithms", "Data-Driven Personalization", "Predictive Modelling","Decision Analytics"]
+            "CP" : "C++"
         }
         self.description = "Tech Enthusiast"
 
