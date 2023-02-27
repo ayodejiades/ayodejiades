@@ -7,7 +7,7 @@ class Ayodeji:
         self.school = "Loading...."
         self.code = {
             "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "HTML", "CSS",],
-            "backend": ["Python", "Java", "Node.js", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
+            "backend": ["Python", "Java", "Node.js", "Azure Functions", "SQL", "AWS Lambda", "C"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux", "IBM Quantum Composer", "LaTeX", "Octave"],
             "hard_skills":["Quantitative Analysis", "Machine Learning Algorithms", "Data-Driven Personalization", "Predictive Modelling","Decision Analytics"]
             "CP" : "C++"
